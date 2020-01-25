@@ -21,25 +21,25 @@
 
 ### Process
 
-É nos apresentado uma string de números e letras.
+We are presented with a string of numbers and letters.
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution1_That's%20a%20Lot%20of%20Stuff.png)
 
-Tal conteúdo é um hexadecimal[1], devido a sua organização posicional ser base 16 utlizando números e letras.
+Such content is a hexadecimal[1], due to its positional organization being base 16 using numbers and letters.
 
-Convertemos para Texto e o retorno é um Octal[2] cuja a sua organização posicional é base 8.  
+We convert it to Text and the return is an Octal[2] whose positional organization is base 8.
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution2_That's%20a%20Lot%20of%20Stuff.png)
 
-Convertemos o Octal para Texto e nos retornou uma string/hash desconhecida:
+We converted Octal to Text and returned an unknown string/hash:
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution3_That's%20a%20Lot%20of%20Stuff.png)
 
-Identificamos o tipo de string/hash:
+We identified the type of string/hash:
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution4_That's%20a%20Lot%20of%20Stuff.png)
 
-Convertemos o base64[3] para texto e nos retornou a flag:
+We converted base64[3] to text and returned the flag:
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution5_That's%20a%20Lot%20of%20Stuff.png)
 
