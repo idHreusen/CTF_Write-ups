@@ -27,7 +27,10 @@
 
 Tal conteúdo é um hexadecimal[1], devido a sua organização posicional ser base 16 utlizando números e letras.
 
-Convertemos para Texto e nos retornou outra string
+Convertemos para Texto e o retorno é um Octal[2] cuja a sua organização posicional é base 8.  
+
+![GitHub Logo](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution2_That's%20a%20Lot%20of%20Stuff.png)
+
 ```
 The flag : RTCP{MEOW_SHARP_PIDGION_RICE_TREE}
 ```
