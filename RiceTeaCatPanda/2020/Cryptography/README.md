@@ -1,7 +1,32 @@
-That's a Lot of Stuff . . .
-Points: 275
+# CTF riceteacatpanda.wtf – Challenge Treeeee
 
-Description 
-Do you want some numbers? Here, take these numbers. I don't need them anyways. I have too many numbers at home, so go on, take them. Shoves numbers towards the computer screen
+* **Category:** General Skills 
+* **Points:** 200
+* **file:** [Treemycatisin](treemycatisin.7z)
 
-31 34 33 20 31 35 36 20 31 32 32 20 31 35 32 20 31 34 33 20 31 31 30 20 31 36 34 20 31 35 32 20 31 31 35 20 31 30 37 20 36 35 20 36 32 20 31 31 35 20 36 33 20 31 31 32 20 31 37 32 20 31 31 35 20 31 32 34 20 31 30 32 20 31 36 35 20 31 34 33 20 36 31 20 37 31 20 31 35 30 20 31 34 33 20 31 35 32 20 31 31 36 20 31 34 36 20 31 31 36 20 31 30 36 20 37 31 20 31 35 32 20 31 31 35 20 31 30 34 20 31 30 32 20 31 31 35 20 31 33 30 20 36 32 20 31 31 35 20 36 30 20 31 34 34 20 31 31 30 20 31 31 36 20 37 31
+
+## Challenge
+
+> It appears that my cat has gotten itself stuck in a tree... It's really tall and I can't seem to reach it. Maybe you can throw a snake at the tree to find it?
+Oh, you want to know what my cat looks like? I put a picture in the hints.
+
+## Solution
+the first thing that came to my mind is tree command whether it is in linux or windows , the tree  is a recursive directory listing program  that  produces  a  depth  indented
+listing of files ! 
+so after extracting the compressed file given you will notice many folders like at least 1337 folders !
+by doing tree you will encounter some jpg files 
+
+![alt text](https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/RiceTeaPanda/'Treeeeeeee%20(200)'/tree.png)
+
+if you search for images only u will find like 1300 images. A quick look at the images shows that there are two images that are cloned. 
+![alt text](https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/RiceTeaPanda/'Treeeeeeee%20(200)'/1337.png)
+almost all the images are the same so i guess we have to find a different one , we can find that unique image by its size using ls and grepping through the size
+![alt text](https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/RiceTeaPanda/'Treeeeeeee%20(200)'/ls.png)
+
+lets find that unique image by doing find ./ -name ENP92.jpg and we can open it with eog later
+![alt text](https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/RiceTeaPanda/'Treeeeeeee%20(200)'/found.png?raw=true)
+and voila there u go ! 
+![alt text](https://github.com/blackwarriorxtn/CTF_Writeups/blob/master/RiceTeaPanda/'Treeeeeeee%20(200)'/ENP92.png)
+```
+The flag : RTCP{MEOW_SHARP_PIDGION_RICE_TREE}
+```
