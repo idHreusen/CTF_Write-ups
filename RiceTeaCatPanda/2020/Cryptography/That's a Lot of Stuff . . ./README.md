@@ -23,6 +23,8 @@
 
 É nos apresentado uma string de números e letras.
 
+![GitHub Logo](/images/logo.png)
+
 Tal conteúdo é um hexadecimal[1], devido a sua organização posicional ser base 16 utlizando números e letras.
 
 Convertemos para Texto e nos retornou outra string
