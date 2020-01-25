@@ -49,8 +49,8 @@ The flag : rtcp{c0nv3rs10ns_ar3_4_c00L_c4ts}
 ```
 
 ## Glossary
-1. Este sistema é muito utilizado para demonstrar números binários de uma forma mais compacta.
+1. This system is widely used to demonstrate binary numbers in a more compact way.
 
-2. O sistema octal foi muito utilizado no mundo da computação, como uma alternativa mais compacta do sistema binário, na programação em linguagem de máquina.
+2. The octal system was widely used in the world of computing, as a more compact alternative to the binary system, in machine language programming.
 
-3. Base64 é um método para codificação de dados para transferência na Internet (codificação MIME para transferência de conteúdo). É utilizado frequentemente para transmitir dados binários por meios de transmissão que lidam apenas com texto
+3. Base64 is a method for encoding data for transferring over the Internet (MIME encoding for transferring content). It is often used to transmit binary data by means of transmission that deal only with text.
