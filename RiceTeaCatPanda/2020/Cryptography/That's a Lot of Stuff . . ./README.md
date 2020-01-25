@@ -23,7 +23,7 @@
 
 É nos apresentado uma string de números e letras.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution1_That's%20a%20Lot%20of%20Stuff.png)
 
 Tal conteúdo é um hexadecimal[1], devido a sua organização posicional ser base 16 utlizando números e letras.
 
