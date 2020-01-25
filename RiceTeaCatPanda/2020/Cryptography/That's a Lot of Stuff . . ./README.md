@@ -25,9 +25,9 @@ We are presented with a string of numbers and letters.
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution1_That's%20a%20Lot%20of%20Stuff.png)
 
-Such content is a hexadecimal[1], due to its positional organization being base 16 using numbers and letters.
+This content is hexadecimal[1] digits, due to its positional organization being base 16, using numbers and letters.
 
-We convert it to Text and the return is an Octal[2] whose positional organization is base 8.
+We converted it to text. The returned are octal[2] digits whose positional organization is base 8.
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution2_That's%20a%20Lot%20of%20Stuff.png)
 
@@ -49,8 +49,8 @@ The flag : rtcp{c0nv3rs10ns_ar3_4_c00L_c4ts}
 ```
 
 ## Glossary
-1. This system is widely used to demonstrate binary numbers in a more compact way.
+1 [hexadecimal]. This system is widely used to demonstrate binary numbers in a more compact way.
 
-2. The octal system was widely used in the world of computing, as a more compact alternative to the binary system, in machine language programming.
+2 [octal]. The octal system was widely used in the world of computing, as a more compact alternative to the binary system, in machine language programming.
 
-3. Base64 is a method for encoding data for transferring over the Internet (MIME encoding for transferring content). It is often used to transmit binary data by means of transmission that deal only with text.
+3 [base64]. Base64 is a method for encoding data for transferring over the Internet (MIME encoding for transferring content). It is often used to transmit binary data by means of transmission that deal only with text.
