@@ -1,4 +1,4 @@
-# CTF riceteacatpanda.wtf – Challenge #That's a Lot of Stuff . . .
+# CTF riceteacatpanda.wtf – Challenge #That's a Lot of Stuff ...
 
 * **Category:** Cryptography
 * **Points:** 275
