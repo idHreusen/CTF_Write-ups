@@ -39,7 +39,7 @@ Identificamos o tipo de string/hash:
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution4_That's%20a%20Lot%20of%20Stuff.png)
 
-Convertemos o base64 para texto e nos retornou a flag:
+Convertemos o base64[3] para texto e nos retornou a flag:
 
 ![](/RiceTeaCatPanda/2020/Cryptography/That's%20a%20Lot%20of%20Stuff%20.%20.%20./Solution5_That's%20a%20Lot%20of%20Stuff.png)
 
@@ -49,8 +49,8 @@ The flag : rtcp{c0nv3rs10ns_ar3_4_c00L_c4ts}
 ```
 
 ## Glossary
-- Este sistema é muito utilizado para demonstrar números binários de uma forma mais compacta.
+1. Este sistema é muito utilizado para demonstrar números binários de uma forma mais compacta.
 
-- O sistema octal foi muito utilizado no mundo da computação, como uma alternativa mais compacta do sistema binário, na programação em linguagem de máquina.
+2. O sistema octal foi muito utilizado no mundo da computação, como uma alternativa mais compacta do sistema binário, na programação em linguagem de máquina.
 
-- Base64 é um método para codificação de dados para transferência na Internet (codificação MIME para transferência de conteúdo). É utilizado frequentemente para transmitir dados binários por meios de transmissão que lidam apenas com texto
+3. Base64 é um método para codificação de dados para transferência na Internet (codificação MIME para transferência de conteúdo). É utilizado frequentemente para transmitir dados binários por meios de transmissão que lidam apenas com texto
