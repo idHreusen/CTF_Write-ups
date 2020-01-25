@@ -20,6 +20,15 @@
 * v2.cryptii.com
 
 ### Process
+
+É nos apresentado uma string de números e letras.
+
+Tal conteúdo é um hexadecimal[1], devido a sua organização posicional ser base 16 utlizando números e letras.
+
+Convertemos para Texto e nos retornou outra string
 ```
 The flag : RTCP{MEOW_SHARP_PIDGION_RICE_TREE}
 ```
+
+## Glossary
+1 - Este sistema é muito utilizado para demonstrar números binários de uma forma mais compacta
